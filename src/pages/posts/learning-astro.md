@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MyMarkdownLayout.astro
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "Learning About Markdown in Astro"
 author: Astro Learner
 pubdate: 2022-08-08
